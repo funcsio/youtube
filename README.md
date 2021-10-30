@@ -1,3 +1,7 @@
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCF0mlih0bfq5iAPzRFX3XPw?style=social)
+
+![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCF0mlih0bfq5iAPzRFX3XPw)
+
 | Title                                                           | Url                          | Date         |
 | --------------------------------------------------------------- | ---------------------------- | ------------ |
 | App Theming with Dark and Light Mode - React Native ⚛️           | https://youtu.be/7yjYQy8iWsc | Oct 10, 2021 |
